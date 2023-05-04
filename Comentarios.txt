@@ -1,0 +1,9 @@
+Site de onde retirei o material:
+
+Como usar o DataTables com PHP para listar registros do banco de dados
+https://www.youtube.com/watch?v=WWQ5d5ttjoI
+Como criar e usar o DataTables para listar registros do banco de dados
+https://www.youtube.com/watch?v=b8YLHrH0UMU
+
+OBS: Olhar esta sequência de tutoriais:
+https://www.youtube.com/watch?v=aXklcQvTVAc&list=PLmY5AEiqDWwCC1plzjEgKcvV2hNqX_Aru
